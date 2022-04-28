@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @nidhi-elekta
+- 👀 I’m interested in hiring developers 
+- 🌱 I’m currently working with Elekta as Global TA Partner
+- 💞️ I’m looking to collaborate on finding you a great place to work :)
+- 📫 How to reach me- linkedin.com/in/nidhisarkar or nidhi.sarkar@elekta.com
+- Currently looking for Frontend Developers , Full Stack Developers & Senior Engineering Manager for Finland . Feel free to connect if these roles intrigues you. 
